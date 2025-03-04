@@ -15,7 +15,7 @@ function App() {
   return (
     <>
   
-    <RegisterUser/>
+    <Product1/>
     </>
   )
 }
